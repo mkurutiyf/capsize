@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
