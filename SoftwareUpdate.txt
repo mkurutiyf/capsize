@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Auto-format by https://ultralytics.com/actions
