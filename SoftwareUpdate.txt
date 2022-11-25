@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
