@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update OpenVINO INT8 export (#7515)
