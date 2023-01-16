@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add plot_images conf_thresh parameter (#8446)
