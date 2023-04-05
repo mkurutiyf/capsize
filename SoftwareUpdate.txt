@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix docker.yaml double-quote version bug (#7452)
