@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix TFLite INT8 for OBB (#7989)
