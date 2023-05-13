@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
