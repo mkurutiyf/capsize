@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Fix cmake requirements for ARM64 (#8589)
