@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
