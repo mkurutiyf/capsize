@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
