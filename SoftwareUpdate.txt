@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Feature: Create HUB Models from CLI or Python Script (#7316)
