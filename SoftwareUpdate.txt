@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+OBB: Fix plot_images (#7592)
